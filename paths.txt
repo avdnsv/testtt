@@ -1,0 +1,7 @@
+# command line tools 
+# zsh history and sessions
+# bash history and sessions
+# xcode history and logs
+# safari history and cache
+
+# '/Library/Caches/' ??
